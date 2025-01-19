@@ -1,10 +1,6 @@
 The Department of Mathematics,  Amrita Vishwa Vidyapeetham, Coimbatore, organized “ACM School on Data Structures and Algorithms for Strings, with Applications to Search Engines and Computational Biology”. This assignment is a part of the coursework of Winter School.
 
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 ## Querying the Microbial sequences with compact and accurate index
 
 ### Download and Install
