@@ -1,7 +1,5 @@
 @echo off
 
-echo Uncompressing the assignment...
-tar -zxvf assignment.tar.gz
 cd assignment\
 
 echo Installing dependencies...
