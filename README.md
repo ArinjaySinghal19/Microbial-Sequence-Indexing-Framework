@@ -30,7 +30,7 @@ The Code repository contains the following python source files:
 5. BloomFilter.py : BloomFilter class with add, find, intersection and union operations.
 
 ### 2. Index
-The folder contains several indexes created using different parameters. Each index (tree) is represented and stored in binary and csv format. *We have provided one sample index for testing and validation*
+The folder contains several indexes created using different parameters. Each index (tree) is represented and stored in binary and csv format.
 
 ### 3. Query
 The folder contains query read sequences in the fastq format for 10 species.
